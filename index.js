@@ -256,10 +256,20 @@ const {
   alasan = '-'
   //===============================================================================//
   
-  const own = [`${owner}@s.whatsapp.net`, `${owner2}@s.whatsapp.net`, `${owner3}@s.whatsapp.net`, '6289530298948@s.whatsapp.net']
-  const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:Siegrin\nitem1.TEL;waid=6289530298948:6289530298948\nitem1.X-ABLabel:Creator Bot \nitem2.EMAIL;type=INTERNET:${mygmail}\nitem2.X-ABLabel:Email\nitem4.URL:${mybio}\nitem4.X-ABLabel:Youtube\nitem5.ADR:;;🇮🇩 Indonesia;;;;\nitem5.X-ABLabel:Region\nitem6.X-ABLabel:Thank Siegrin\nEND:VCARD`
+  const own = ['62895401223315@s.whatsapp.net']
+  const vcard = 'BEGIN:VCARD\n' //jangan ganti Sayang
+  + 'VERSION:3.0\n' //jangan ganti Sayang
+  + 'FN:Alvianto\n' //ganti nama kamu sayang
+  + 'ORG: Y-BOT\n' //ganti nama bot kamu sayang
+  + 'TEL;type=CELL;type=VOICE;waid=62895401223315:+62895401223315\n'  //ganti nomor kamu sayang
+  + 'END:VCARD' //jangan ganti sayang
   
-  const vcardowner = `BEGIN:VCARD\nVERSION:3.0\nN:${NamaBot}\nFN:${ownername}\nitem1.TEL;waid=${owner}:${owner}\nitem1.X-ABLabel:Creator Bot \nitem2.EMAIL;type=INTERNET:${mygmail}\nitem2.X-ABLabel:Email\nitem4.URL:${mybio}\nitem4.X-ABLabel:Youtube\nitem5.ADR:;;🇮🇩 Indonesia;;;;\nitem5.X-ABLabel:Region\nitem6.X-ABLabel:Thank Siegrin\nEND:VCARD`
+    const vcardowner = 'BEGIN:VCARD\n' //jangan ganti Sayang
+  + 'VERSION:3.0\n' //jangan ganti Sayang
+  + 'FN:Alvianto\n' //ganti nama kamu sayang
+  + 'ORG: Y-BOT\n' //ganti nama bot kamu sayang
+  + 'TEL;type=CELL;type=VOICE;waid=62895401223315:+62895401223315\n'  //ganti nomor kamu sayang
+  + 'END:VCARD' //jangan ganti sayang
    
   //===============================================================================//
   
