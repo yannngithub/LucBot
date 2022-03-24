@@ -1783,7 +1783,7 @@ const {
   break
   case 'owner':
   case 'creator':
-    client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
+    client.sendMessage(from, {displayname: "Jeff", vcard: vcardowner}, MessageType.contact, { quoted: mek})
     client.sendMessage(from, 'Tuh nomer owner ku >_<. Jangan spam ya atau ku block kamu',MessageType.text, { quoted: mek} )
       break
   break
