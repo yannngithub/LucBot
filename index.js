@@ -1783,12 +1783,9 @@ const {
   break
   case 'owner':
   case 'creator':
-  if (database === true) {if (!isRegistered) return sendButtonNotRegis(from)}
-  if (isBanned) return replysticker(banstc)
-  client.sendMessage(from, {
-  "displayName": "5 Contact",
-  "contacts": contrii 
-  }, 'contactsArrayMessage', { quoted: mek})
+    client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
+    client.sendMessage(from, 'Tuh nomer owner ku >_<. Jangan spam ya atau ku block kamu',MessageType.text, { quoted: mek} )
+      break
   break
   case 'myyoutube':
   if (isBanned) return replysticker(banstc)
