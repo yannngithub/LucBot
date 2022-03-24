@@ -2272,7 +2272,6 @@ const {
   if (!isBotGroupAdmins) return replysticker(botadmstc)
   if (!isGroupAdmins && !isOwner) return replysticker(adminstc)
   if (premium === true) {if (!isPremium) return replysticker(premiumstc)}
-  
   if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('𝗧𝗮𝗴 𝘁𝗮𝗿𝗴𝗲𝘁 ??𝗮𝗻𝗴 𝗶𝗻𝗴𝗶𝗻 𝗱𝗶 𝘁𝗲𝗻𝗱𝗮𝗻𝗴!')
   mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
   if (mentioned.length > 1) {
@@ -2288,7 +2287,6 @@ const {
       mentions(`*_BYE BYE BEBAN GRUB_*\n\n@${mentioned[0].split('@')[0]} 🤭`, mentioned, true)
       client.groupRemove(from, mentioned)
   }
-  await limitAdd(sender)
   break
   case 'add':
   if (database === true) {if (!isRegistered) return sendButtonNotRegis(from)}
