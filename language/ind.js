@@ -1036,13 +1036,6 @@ return `*「 MOBILE LEGEND 」*
 ☂ *4394 💎 Rp 890.982*
 ☂ *5532 💎 Rp 1.145.000*
 ☂ *9288 💎 Rp 1.901.000*
-
-*Starlight Membership Bonus 12 💎 Rp 97.000*
-*Twilight Pass [PROMO ]  Rp 97.000*
-*Starlight Membership  Rp 127.000*
-*Twilight  Rp 127.000*
-*Starlight Membership Plus [PROMO ] Rp 200.000*
-*Mobile Legend Member Plus Rp 285.000*
 \n
 `}
 
@@ -1052,20 +1045,20 @@ return `*「 FREE FIRE 」*
 • LEGAL 100%
 • PROSES 1-7 MENIT
 
-☂ *50 💎 Rp 7.789*
+☂ *50 💎 Rp 7.800*
 ☂ *70 💎 Rp 10.000*
 ☂ *100 💎 Rp 15.500*
-☂ *140 💎 Rp 19.500*
-☂ *210 💎 Rp 28.522*
-☂ *355 💎 Rp 46.500*
-☂ *500 💎 Rp 66.500*
-☂ *720 💎 Rp 92.740*
-☂ *1000 💎 Rp 129.104*
-☂ *1440 💎 Rp 183.200*
-☂ *2000 💎 Rp 250.400*
+☂ *140 💎 Rp 20.00*
+☂ *210 💎 Rp 30.000*
+☂ *355 💎 Rp 47.000*
+☂ *500 💎 Rp 68.000*
+☂ *720 💎 Rp 94.500*
+☂ *1075 💎 Rp 145.000*
+☂ *1450 💎 Rp 186.500*
+☂ *2000 💎 Rp 250.500*
 
-*Member Mingguan Rp 28.800*
-*Member Bulanan Rp 138.000*
+*Member Mingguan Rp 29.000*
+*Member Bulanan Rp 138.500*
 
 Note : 
 • Harga sewaktu waktu berubah
